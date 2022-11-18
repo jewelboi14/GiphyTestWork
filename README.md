@@ -6,12 +6,9 @@ Screenshots and gif:
 
 
 
-https://user-images.githubusercontent.com/88627410/202611731-255d0bb1-d507-4a5d-836d-f7641b7bc43d.mov
-
-
-
 https://user-images.githubusercontent.com/88627410/202611599-85224186-54ce-4902-86c6-ab5810a93cb3.mov
 
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-18 at 08 35 22](https://user-images.githubusercontent.com/88627410/202611838-9c5a7ab5-85d8-4ee1-9c29-1e847dfc46f4.png)
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-18 at 08 35 28](https://user-images.githubusercontent.com/88627410/202611738-305ae939-81d3-45ed-85ec-c3a5bc443020.png)
 
 
